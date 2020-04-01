@@ -1,0 +1,6 @@
+# Skillmonitors
+Cloud Based School Management System Software
+# Installation
+SkillMonitors Cloud-based School ERP is a complete solution developed to impact Learning Outcomes & Campus Management by automating all life cycles - Student, Faculty & Administration and providing actionable insights via Smart Analytics. Latest Technology & Smart Integration Smart features such as BI Tools, Biometric identification Mobile Apps, Auto-triggered notifications, and much more to ensure best outcomes & transparency between school & parents.CSMS supports all Boards, CBSE, ICSE, State, IB & Cambridge. Enables active communication between key stakeholders to improve student learning. Statistical Analysis presented by BI Tools suggests valuable inferences. Interactive e-learning creates an engaging teaching-learning environment, reating experiential learning.
+# ProductView
+https://youtu.be/Jdo_A9DfhM0 SkillMonitors School management system is the one-stop solution for all educational institutes to automate data management process. Whether you are looking for the best school ERP for school, college or coaching institute, the dedicated and experienced team at SkillMonitors knows well how to stand on the expectations of their clients and therefore, develops a user-friendly and secure school ERP.
